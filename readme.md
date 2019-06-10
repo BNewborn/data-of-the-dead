@@ -1,4 +1,4 @@
-###Data of the Dead (and co.)
+### Data of the Dead (and co.)
 
 I created this code last fall - it was good practice with Selenium and wrangling otherwise messy data into a relational and useful format. And, I got a chance to play around with data about something I care about - great music from the Grateful Dead.
 
